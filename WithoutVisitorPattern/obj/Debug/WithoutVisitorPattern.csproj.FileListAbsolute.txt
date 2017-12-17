@@ -1,0 +1,7 @@
+c:\users\wolfgang\Desktop\WithoutVisitorPattern\WithoutVisitorPattern\bin\Debug\WithoutVisitorPattern.exe.config
+c:\users\wolfgang\Desktop\WithoutVisitorPattern\WithoutVisitorPattern\bin\Debug\WithoutVisitorPattern.exe
+c:\users\wolfgang\Desktop\WithoutVisitorPattern\WithoutVisitorPattern\bin\Debug\WithoutVisitorPattern.pdb
+c:\users\wolfgang\Desktop\WithoutVisitorPattern\WithoutVisitorPattern\obj\Debug\WithoutVisitorPattern.csprojResolveAssemblyReference.cache
+c:\users\wolfgang\Desktop\WithoutVisitorPattern\WithoutVisitorPattern\obj\Debug\WithoutVisitorPattern.csproj.CoreCompileInputs.cache
+c:\users\wolfgang\Desktop\WithoutVisitorPattern\WithoutVisitorPattern\obj\Debug\WithoutVisitorPattern.exe
+c:\users\wolfgang\Desktop\WithoutVisitorPattern\WithoutVisitorPattern\obj\Debug\WithoutVisitorPattern.pdb
